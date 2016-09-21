@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UIAutomator</string>
+    <string name="uiautomator">UIAutomator</string>
+    <string name="type_something">Type something</string>
+    <string name="change_text">Change text</string>
+    <string name="text_change_new_activity">Open ativity and change text</string>
+</resources>
